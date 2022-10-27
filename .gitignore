@@ -1,6 +1,8 @@
 #--------------------------#
 # Magento Default Files    #
 #--------------------------#
+/node_modules
+.vscode
 
 /PATCH_*.sh
 
